@@ -1,8 +1,10 @@
 # Bookshop-Management-Software
 
-1. #Splash Screen
+1. Splash Screen
 
 ![image](https://user-images.githubusercontent.com/59476093/123914257-d533cf00-d99c-11eb-97ed-34ea8f161d21.png)
+
+
 
 
 
@@ -12,9 +14,13 @@
 
 
 
+
+
 3. Bookshop (Buying Section)
 
 ![image](https://user-images.githubusercontent.com/59476093/123914482-11672f80-d99d-11eb-8566-0b82982a7aa8.png)
+
+
 
 
 
@@ -24,9 +30,13 @@
 
 
 
+
+
 5. Users Section
 
 ![image](https://user-images.githubusercontent.com/59476093/123914617-3491df00-d99d-11eb-9cd7-18c98cc3bb65.png)
+
+
 
 
 
